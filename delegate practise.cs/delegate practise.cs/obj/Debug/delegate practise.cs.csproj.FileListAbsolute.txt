@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\bin\Debug\delegate practise.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\bin\Debug\delegate practise.cs.exe
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\bin\Debug\delegate practise.cs.pdb
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\obj\Debug\delegate practise.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\obj\Debug\delegate practise.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\obj\Debug\delegate practise.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\obj\Debug\delegate practise.cs.exe
+C:\Disk - D\Intern Training\Csharp\delegate practise.cs\delegate practise.cs\obj\Debug\delegate practise.cs.pdb
