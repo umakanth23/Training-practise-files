@@ -22,6 +22,10 @@ class Program
         int res = x * x * x;
         Console.WriteLine("Cube of {0} is : {1}",x,res);
     }
+    public static void fun4(int x)
+    {
+        Console.WriteLine("Output : " + x * 10 / 6);
+    }
     static void Main(string[] args)
     {
         Dint d1 = new Dint(area);
@@ -30,6 +34,7 @@ class Program
         d2(20);
         Dint d3 = new Dint(fun3);
         d3(30);
-
+        Dint d4 = new Dint(fun4);
+        d4(25);
     }
 }

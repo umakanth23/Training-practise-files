@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\bin\Debug\Explicit interfaces.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\bin\Debug\Explicit interfaces.cs.exe
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\bin\Debug\Explicit interfaces.cs.pdb
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\obj\Debug\Explicit interfaces.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\obj\Debug\Explicit interfaces.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\obj\Debug\Explicit interfaces.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\obj\Debug\Explicit interfaces.cs.exe
+C:\Disk - D\Intern Training\Csharp\Explicit interfaces.cs\Explicit interfaces.cs\obj\Debug\Explicit interfaces.cs.pdb
