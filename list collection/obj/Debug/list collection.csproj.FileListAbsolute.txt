@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\list collection\bin\Debug\list collection.exe.config
+C:\Disk - D\Intern Training\Csharp\list collection\bin\Debug\list collection.exe
+C:\Disk - D\Intern Training\Csharp\list collection\bin\Debug\list collection.pdb
+C:\Disk - D\Intern Training\Csharp\list collection\obj\Debug\list collection.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\list collection\obj\Debug\list collection.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\list collection\obj\Debug\list collection.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\list collection\obj\Debug\list collection.exe
+C:\Disk - D\Intern Training\Csharp\list collection\obj\Debug\list collection.pdb

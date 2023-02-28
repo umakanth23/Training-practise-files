@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\bin\Debug\Binary search.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\bin\Debug\Binary search.cs.exe
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\bin\Debug\Binary search.cs.pdb
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\obj\Debug\Binary search.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\obj\Debug\Binary search.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\obj\Debug\Binary search.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\obj\Debug\Binary search.cs.exe
+C:\Disk - D\Intern Training\Csharp\Binary search.cs\Binary search.cs\obj\Debug\Binary search.cs.pdb

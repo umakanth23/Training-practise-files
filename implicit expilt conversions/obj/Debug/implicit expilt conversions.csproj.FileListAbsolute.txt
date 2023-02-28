@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\bin\Debug\implicit expilt conversions.exe.config
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\bin\Debug\implicit expilt conversions.exe
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\bin\Debug\implicit expilt conversions.pdb
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\obj\Debug\implicit expilt conversions.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\obj\Debug\implicit expilt conversions.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\obj\Debug\implicit expilt conversions.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\obj\Debug\implicit expilt conversions.exe
+C:\Disk - D\Intern Training\Csharp\implicit expilt conversions\obj\Debug\implicit expilt conversions.pdb

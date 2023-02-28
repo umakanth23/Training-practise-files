@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\bin\Debug\String search.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\bin\Debug\String search.cs.exe
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\bin\Debug\String search.cs.pdb
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\obj\Debug\String search.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\obj\Debug\String search.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\obj\Debug\String search.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\obj\Debug\String search.cs.exe
+C:\Disk - D\Intern Training\Csharp\String search.cs\String search.cs\obj\Debug\String search.cs.pdb

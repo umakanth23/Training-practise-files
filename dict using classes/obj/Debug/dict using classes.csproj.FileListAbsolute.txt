@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\dict using classes\bin\Debug\dict using classes.exe.config
+C:\Disk - D\Intern Training\Csharp\dict using classes\bin\Debug\dict using classes.exe
+C:\Disk - D\Intern Training\Csharp\dict using classes\bin\Debug\dict using classes.pdb
+C:\Disk - D\Intern Training\Csharp\dict using classes\obj\Debug\dict using classes.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\dict using classes\obj\Debug\dict using classes.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\dict using classes\obj\Debug\dict using classes.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\dict using classes\obj\Debug\dict using classes.exe
+C:\Disk - D\Intern Training\Csharp\dict using classes\obj\Debug\dict using classes.pdb

@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\bin\Debug\multiple interfaces.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\bin\Debug\multiple interfaces.cs.exe
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\bin\Debug\multiple interfaces.cs.pdb
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\obj\Debug\multiple interfaces.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\obj\Debug\multiple interfaces.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\obj\Debug\multiple interfaces.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\obj\Debug\multiple interfaces.cs.exe
+C:\Disk - D\Intern Training\Csharp\multiple interfaces.cs\multiple interfaces.cs\obj\Debug\multiple interfaces.cs.pdb

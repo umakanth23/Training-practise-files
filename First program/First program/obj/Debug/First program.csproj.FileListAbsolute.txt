@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\First program\First program\bin\Debug\First program.exe.config
+C:\Disk - D\Intern Training\Csharp\First program\First program\bin\Debug\First program.exe
+C:\Disk - D\Intern Training\Csharp\First program\First program\bin\Debug\First program.pdb
+C:\Disk - D\Intern Training\Csharp\First program\First program\obj\Debug\First program.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\First program\First program\obj\Debug\First program.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\First program\First program\obj\Debug\First program.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\First program\First program\obj\Debug\First program.exe
+C:\Disk - D\Intern Training\Csharp\First program\First program\obj\Debug\First program.pdb

@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\obj\Debug\implicit varibles.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\obj\Debug\implicit varibles.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\obj\Debug\implicit varibles.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\bin\Debug\implicit varibles.exe.config
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\bin\Debug\implicit varibles.exe
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\bin\Debug\implicit varibles.pdb
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\obj\Debug\implicit varibles.exe
+C:\Disk - D\Intern Training\Csharp\First program\implicit varibles\obj\Debug\implicit varibles.pdb

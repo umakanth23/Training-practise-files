@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\obj\Debug\interface practise.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\obj\Debug\interface practise.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\obj\Debug\interface practise.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\bin\Debug\interface practise.exe.config
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\bin\Debug\interface practise.exe
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\bin\Debug\interface practise.pdb
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\obj\Debug\interface practise.exe
+C:\Disk - D\Intern Training\Csharp\interface practise\interface practise\obj\Debug\interface practise.pdb

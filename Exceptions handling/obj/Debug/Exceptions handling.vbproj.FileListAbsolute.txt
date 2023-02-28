@@ -1,0 +1,12 @@
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\bin\Debug\Exceptions handling.exe.config
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\bin\Debug\Exceptions handling.exe
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\bin\Debug\Exceptions handling.pdb
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\bin\Debug\Exceptions handling.xml
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.vbproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.vbproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions_handling.Resources.resources
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.vbproj.GenerateResource.cache
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.vbproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.exe
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.xml
+C:\Disk - D\Intern Training\Csharp\Exceptions handling\obj\Debug\Exceptions handling.pdb

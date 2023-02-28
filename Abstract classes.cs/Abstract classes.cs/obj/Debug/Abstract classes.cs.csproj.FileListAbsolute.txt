@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\bin\Debug\Abstract classes.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\bin\Debug\Abstract classes.cs.exe
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\bin\Debug\Abstract classes.cs.pdb
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\obj\Debug\Abstract classes.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\obj\Debug\Abstract classes.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\obj\Debug\Abstract classes.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\obj\Debug\Abstract classes.cs.exe
+C:\Disk - D\Intern Training\Csharp\Abstract classes.cs\Abstract classes.cs\obj\Debug\Abstract classes.cs.pdb

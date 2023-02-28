@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\bin\Debug\String operations in csharp.exe.config
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\bin\Debug\String operations in csharp.exe
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\bin\Debug\String operations in csharp.pdb
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\obj\Debug\String operations in csharp.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\obj\Debug\String operations in csharp.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\obj\Debug\String operations in csharp.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\obj\Debug\String operations in csharp.exe
+C:\Disk - D\Intern Training\Csharp\String operations in csharp\obj\Debug\String operations in csharp.pdb

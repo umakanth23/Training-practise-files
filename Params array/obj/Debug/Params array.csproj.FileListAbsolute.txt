@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Params array\bin\Debug\Params array.exe.config
+C:\Disk - D\Intern Training\Csharp\Params array\bin\Debug\Params array.exe
+C:\Disk - D\Intern Training\Csharp\Params array\bin\Debug\Params array.pdb
+C:\Disk - D\Intern Training\Csharp\Params array\obj\Debug\Params array.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Params array\obj\Debug\Params array.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Params array\obj\Debug\Params array.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Params array\obj\Debug\Params array.exe
+C:\Disk - D\Intern Training\Csharp\Params array\obj\Debug\Params array.pdb
