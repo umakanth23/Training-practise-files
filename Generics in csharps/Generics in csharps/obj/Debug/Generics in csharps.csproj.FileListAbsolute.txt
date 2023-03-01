@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\bin\Debug\Generics in csharps.exe.config
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\bin\Debug\Generics in csharps.exe
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\bin\Debug\Generics in csharps.pdb
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\obj\Debug\Generics in csharps.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\obj\Debug\Generics in csharps.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\obj\Debug\Generics in csharps.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\obj\Debug\Generics in csharps.exe
+C:\Disk - D\Intern Training\Csharp\Generics in csharps\Generics in csharps\obj\Debug\Generics in csharps.pdb
