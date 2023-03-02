@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\bin\Debug\replace stings in sentence.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\bin\Debug\replace stings in sentence.cs.exe
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\bin\Debug\replace stings in sentence.cs.pdb
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\obj\Debug\replace stings in sentence.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\obj\Debug\replace stings in sentence.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\obj\Debug\replace stings in sentence.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\obj\Debug\replace stings in sentence.cs.exe
+C:\Disk - D\Intern Training\Csharp\replace stings in sentence.cs\replace stings in sentence.cs\obj\Debug\replace stings in sentence.cs.pdb

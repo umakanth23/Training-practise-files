@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\bin\Debug\Sorting array using sort().exe.config
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\bin\Debug\Sorting array using sort().exe
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\bin\Debug\Sorting array using sort().pdb
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\obj\Debug\Sorting array using sort().csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\obj\Debug\Sorting array using sort().csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\obj\Debug\Sorting array using sort().csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\obj\Debug\Sorting array using sort().exe
+C:\Disk - D\Intern Training\Csharp\Sorting array using sort()\Sorting array using sort()\obj\Debug\Sorting array using sort().pdb

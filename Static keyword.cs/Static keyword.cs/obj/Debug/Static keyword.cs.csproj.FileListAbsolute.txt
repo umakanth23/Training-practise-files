@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\bin\Debug\Static keyword.cs.exe.config
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\bin\Debug\Static keyword.cs.exe
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\bin\Debug\Static keyword.cs.pdb
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\obj\Debug\Static keyword.cs.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\obj\Debug\Static keyword.cs.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\obj\Debug\Static keyword.cs.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\obj\Debug\Static keyword.cs.exe
+C:\Disk - D\Intern Training\Csharp\Static keyword.cs\Static keyword.cs\obj\Debug\Static keyword.cs.pdb

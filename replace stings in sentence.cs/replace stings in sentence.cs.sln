@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "replace stings in sentence.cs", "replace stings in sentence.cs\replace stings in sentence.cs.csproj", "{F207DA94-388D-4C84-8BEE-0C7B7FAD833B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F207DA94-388D-4C84-8BEE-0C7B7FAD833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F207DA94-388D-4C84-8BEE-0C7B7FAD833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F207DA94-388D-4C84-8BEE-0C7B7FAD833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F207DA94-388D-4C84-8BEE-0C7B7FAD833B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5EDE580-CA7F-4960-B65A-06ECE13B11BA}
+	EndGlobalSection
+EndGlobal
