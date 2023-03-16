@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\bin\Debug\Operator overloading.exe.config
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\bin\Debug\Operator overloading.exe
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\bin\Debug\Operator overloading.pdb
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\obj\Debug\Operator overloading.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\obj\Debug\Operator overloading.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\obj\Debug\Operator overloading.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\obj\Debug\Operator overloading.exe
+C:\Disk - D\Intern Training\Csharp\Operator overloading\Operator overloading\obj\Debug\Operator overloading.pdb

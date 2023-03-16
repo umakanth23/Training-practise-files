@@ -1,0 +1,7 @@
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.AssemblyInfoInputs.cache
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.AssemblyInfo.cs
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Disk - D\Intern Training\Csharp\Webapidemo\Webapidemo\obj\Debug\net7.0\Webapidemo.MvcApplicationPartsAssemblyInfo.cache

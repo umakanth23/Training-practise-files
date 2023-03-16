@@ -1,0 +1,8 @@
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\bin\Debug\airplace flights.exe.config
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\bin\Debug\airplace flights.exe
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\bin\Debug\airplace flights.pdb
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\obj\Debug\airplace flights.csproj.AssemblyReference.cache
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\obj\Debug\airplace flights.csproj.SuggestedBindingRedirects.cache
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\obj\Debug\airplace flights.csproj.CoreCompileInputs.cache
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\obj\Debug\airplace flights.exe
+C:\Disk - D\Intern Training\Csharp\airplace flights\airplace flights\obj\Debug\airplace flights.pdb
